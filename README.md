@@ -8,7 +8,7 @@ It focuses on building structured web pages using semantic HTML and styling them
 </p>
 
 <p align="center">
-  <a href="https://project-recipes-pearl.vercel.app/">📱 Visit this Project</a>
+  <a href="https://tourist-site-eight.vercel.app/">📱 Visit this Project</a>
 </p>
 
 ---
