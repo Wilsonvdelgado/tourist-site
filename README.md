@@ -16,7 +16,7 @@ It focuses on building structured web pages using semantic HTML and styling them
 ## 🎨 Layout
 
 <p align="center">
-  <img src="./printscreen/home.png" alt="Example 1" width="400px">
+  <img src="./printscreen/home.png" alt="Home page" width="400px">
 </p>
 
 ---
